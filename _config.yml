@@ -57,11 +57,11 @@ navigation:
   - name: ShopMii
     url: 'http://lgsignd.storenvy.com/'
     type: external
-  - name: LG -the Creator
-    url: 'https://thegrid.ai/lg-larsen/'
-    type: external
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
+    type: external
+  - name: LG -the Creator
+    url: 'https://thegrid.ai/lg-larsen/'
     type: external
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
