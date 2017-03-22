@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-22T20:22:05.479Z'
+datePublished: '2017-03-22T20:25:24.927Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-22T20:22:03.801Z'
+dateModified: '2017-03-22T20:25:23.883Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -38,7 +38,7 @@ _type: Article
 Superb Bird of Paradise / Lophorina Superba
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674e683-425f-41f1-8e55-ebebdd7f9692.jpg)
 
-## **You don´t have to adapt your taste to the tradition. The tradition will adapt to your taste**
+# **You don´t have to adapt your taste to the tradition. The tradition will adapt to your taste**
 
 ## _...Jewelry connected with many hundred years old tradition..._
 
