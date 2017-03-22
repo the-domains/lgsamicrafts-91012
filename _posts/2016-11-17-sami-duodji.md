@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-22T20:51:47.774Z'
+datePublished: '2017-03-22T21:03:53.085Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-22T20:51:46.464Z'
+dateModified: '2017-03-22T21:03:52.164Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
