@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-22T21:03:53.085Z'
+datePublished: '2017-03-22T21:07:07.167Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-22T21:03:52.164Z'
+dateModified: '2017-03-22T21:07:06.355Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -28,7 +28,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46addf5-a5ca-47a2-bb7d-19e5c42333fe.jpg)
 
 ### _**- duodji tools , clothing & accessories **_are functional and useful, were made and meant to be used in an everyday work environment, may incorporate artistic element
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d296e4e-91e8-4ce7-a322-8e9dbe36333e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad07d0e-f4d5-4ea7-b5c8-108f76e3d905.jpg)
 
 Jon Henrik Fjällgren
 [FANPAGE Facebook][0]
