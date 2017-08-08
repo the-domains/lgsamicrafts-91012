@@ -1,16 +1,17 @@
-typography_spectrum: 0.6764195206268958
+layout_spectrum: 0.8293869502439467
+typography_spectrum: 0.9627189825679923
 color:
-  brandStrength: 0.5296515366222045
-  lightness: 0.5219987502877629
-  saturation: 0.22860402546361974
-  rhythmicContrast: 0.1271971452758085
+  brandStrength: 0.5244980948044006
+  lightness: 0.342344639614538
+  saturation: 0.2236007201294461
+  rhythmicContrast: 0.9941734705918865
   brandColors:
     - '#000000'
     - '#D2A34B'
     - '#E7C074'
     - '#AC7A2A'
     - '#ECDA94'
-layout_spectrum: 0.8287398269471924
+github: true
 author:
   name: LG Larsen
   email: l.g.samicrafts@gmail.com
@@ -27,6 +28,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Contact Mii
+    id: 4d8cf57f-ec7d-456d-a820-f5487bb46de6
+    type: content
   - name: Sámi DUODJI
     id: 644f518f-1e45-447a-a84c-96a4aebaa71f
     type: content
@@ -125,7 +129,3 @@ purpose:
   - type: external
     url: 'http://lgsignd.storenvy.com/'
     label: ShopMii
-  - type: contact
-    url: 'mailto:l.g.samicrafts@gmail.com'
-    label: Contact Mii
-github: true
