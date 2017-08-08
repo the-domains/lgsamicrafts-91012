@@ -1,0 +1,52 @@
+---
+datePublished: '2017-08-08T17:10:11.473Z'
+sourcePath: _posts/2016-10-18-sizes-and-colors.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2017-08-08T17:10:11.061Z'
+title: Custom made & Sizes
+publisher: {}
+description: ''
+starred: false
+datePublishedOriginal: '2017-03-02T18:28:59.469Z'
+url: custom-made-and-sizes/index.html
+_type: Article
+
+---
+# **Custom made & Sizes**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8be0d95a-5708-4ab1-b1a6-ddd2261abc89.jpg)
+
+---
+
+### **For **all**CUSTOM ORDERS**, please allow **up to 2 weeks** for your order **to be complete **(or see individual items).
+
+## **For your SIZE **(=total length of the bracelet):
+
+1. Measure your wrist tightly
+2. Add 0.4 inches (1 cm) for snug fit, or 0.6 inches (1.5 cm) for loose fit to your wrist size.
+
+> The leather can stretch a few mm over time
+
+# **Sizes**
+
+* 5.9 inches = 15 cm
+* 6.1 inches = 15.5 cm
+* 6.3 inches = 16 cm
+* 6.5 inches = 16.5 cm
+* 6.7 inches = 17 cm
+* 6.9 inches = 17.5 cm
+* 7.1 inches = 18 cm
+* 7.3 inches = 18.5 cm
+* 7.5 inches = 9 cm
+* 7.7 inches = 19.5 cm
+* 7.9 inches = 20 cm
+* 8.1 inches = 20.5 cm
+* 8.3 inches = 21 cm
+* 8.5 inches = 21.5 cm
+* 8.7 inches = 22 cm
+
+**Not your size?**
+
+Please, feel free to**contact Mii !**
