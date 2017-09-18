@@ -58,6 +58,9 @@ navigation:
   - name: Delivery & Returns
     id: d6acc686-a159-45b0-86b7-f6f59c374dba
     type: content
+  - name: ShopMii
+    id: 969ea01e-a4f7-41ca-bfef-233bbdae1b84
+    type: content
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
     type: external
@@ -67,9 +70,6 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
-  - name: ShopMii
-    id: 969ea01e-a4f7-41ca-bfef-233bbdae1b84
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9bd94d5-2035-4edb-b963-2415b369c360.jpg
 title: >-
