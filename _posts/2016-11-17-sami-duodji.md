@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-18T13:19:59.259Z'
+datePublished: '2017-09-18T13:23:25.510Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-18T13:19:57.481Z'
+dateModified: '2017-09-18T13:23:24.302Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -45,7 +45,7 @@ Jon Henrik Fjällgren
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkYGVWeS_jR0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkYGVWeS_jR0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkYGVWeS_jR0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-* ### **-functional items** like knives, cases, ladies´ bags, wooden cups, certain articles of clothing, etc.
+* * ### **-functional items** like knives, cases, ladies´ bags, wooden cups, certain articles of clothing, etc.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45da6020-23c0-4388-aca6-97742e76e1a8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c79c82b-09ed-4091-b517-c858107d6be7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3627697-550d-4723-b91d-cd230a0254f4.jpg)
