@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-18T12:41:52.966Z'
+datePublished: '2017-09-18T12:50:46.373Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-18T12:41:50.747Z'
+dateModified: '2017-09-18T12:50:44.916Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -29,12 +29,11 @@ _type: Article
 
 ### _**- duodji tools , clothing & accessories **_are functional and useful, were made and meant to be used in an everyday work environment, may incorporate artistic element
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad07d0e-f4d5-4ea7-b5c8-108f76e3d905.jpg)
-[Open][0]
 
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkYGVWeS_jR0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkYGVWeS_jR0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkYGVWeS_jR0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+https://www.youtube.com/watch?v=7m3c6xJZVio
 
 Jon Henrik Fjällgren
-[FANPAGE Facebook][1]
+[FANPAGE Facebook][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91c8098-fb58-44c0-b3b7-f458949b4e44.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7028ccff-a650-41b4-8330-17d44d221867.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/466d4218-8d1d-4066-9054-c5264e1cd05c.jpg)
@@ -43,6 +42,8 @@ Jon Henrik Fjällgren
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4ade61f-5217-4e2c-97ec-37a28e5d8c91.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff963470-bac7-49cb-b7ab-b2dc7d41e113.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc9fdbf1-3892-4032-897a-14404d97cf66.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkYGVWeS_jR0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkYGVWeS_jR0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkYGVWeS_jR0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ### **-functional items** like knives, cases, ladies´ bags, wooden cups, certain articles of clothing, etc.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45da6020-23c0-4388-aca6-97742e76e1a8.jpg)
@@ -62,5 +63,4 @@ Jon Henrik Fjällgren
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf831e6-bd45-41cd-a13f-a2462c8a21d6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebf2af1-649f-46c2-b306-f6f4890d9fe4.jpg)
 
-[0]: https://www.youtube.com/watch?v=7m3c6xJZVio
-[1]: https://www.facebook.com/fansitejonhenrikfjallgren/
+[0]: https://www.facebook.com/fansitejonhenrikfjallgren/
