@@ -49,6 +49,9 @@ navigation:
   - name: Leather Colors
     url: 'https://thegrid.ai/leather-colors/'
     type: external
+  - name: ShopMii
+    id: 969ea01e-a4f7-41ca-bfef-233bbdae1b84
+    type: content
   - name: 'Inspiration '
     id: dc346f9e-1661-4f33-90e3-a2d4637ac6a9
     type: content
@@ -57,9 +60,6 @@ navigation:
     type: content
   - name: Delivery & Returns
     id: d6acc686-a159-45b0-86b7-f6f59c374dba
-    type: content
-  - name: ShopMii
-    id: 969ea01e-a4f7-41ca-bfef-233bbdae1b84
     type: content
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
