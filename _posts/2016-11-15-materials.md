@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-08-08T17:12:19.522Z'
+datePublished: '2017-09-22T22:28:40.081Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-08-08T17:12:18.324Z'
+dateModified: '2017-09-22T22:28:38.653Z'
 title: Materials
 publisher: {}
 description: ''
@@ -31,7 +31,7 @@ Colored **Copper thread**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b2c8f8-9034-4561-9645-d322ba44430c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59095dc2-f94a-4c0a-9bc2-0b9852e61cff.jpg)
 
-## **... When Reindeers predict the Fashion ...**
+# ... When Reindeers predict the Fashion ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca365cf-4f83-4bbc-8095-15b3888fa27a.jpg)
 
 > The Buttons are not just a festening
@@ -41,7 +41,7 @@ They are part of the jewelry and art by themselves. Fascinating patterns etched 
 All **Pewter, Copper** and **Silver buttons** are**handcrafted** by other artisans.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe7bdb6-ea73-4510-a6c7-86d9dd6a5e7c.jpg)
 
-# **Tin Thread Embroidery**
+# Tin Thread Embroidery
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbb8eec5-c677-481e-ab7f-d5668a2a2eea.jpg)
 
 **The Saami **used tin thread since the 1600´s to decorate their clothing.
