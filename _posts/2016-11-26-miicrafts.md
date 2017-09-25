@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-25T20:48:35.608Z'
+datePublished: '2017-09-25T20:49:03.827Z'
 sourcePath: _posts/2016-11-26-miicrafts.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-25T20:48:33.181Z'
+dateModified: '2017-09-25T20:49:02.509Z'
 title: MiiCrafts
 publisher: {}
 description: ''
@@ -92,20 +92,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc535bc-2db9-4206-b450-03cac6310948.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc8de1a7-88ef-4f6b-938f-c65dd2f69047.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecdfb54f-f909-4a0a-bd63-7921c38a9b22.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/86b36682-edac-4097-a0f0-8048c4106910.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbc2b9db-3d50-4158-a198-80cfe20ef30c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9efaf14c-ef16-408f-93b2-9ee60e3f7c28.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55a224b2-5a29-4176-9fcf-9c6aab5de8e4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7a0bb68-c812-402f-8800-09e04adc32a8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd3ffdcd-73f0-44c1-b901-9dc725762ecb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5248f9d8-c3e1-4760-9e46-da3a3fd45afa.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c5ae323-61d8-4966-b06d-aa7a4c4c7671.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ada8385-9e34-4d07-9ea7-d477776a7607.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9510a78f-1089-4017-b64e-e6b50829af02.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d29c0e-efaf-409f-afa1-09dce264c115.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba35b851-204c-4f32-bbaf-a1f153206007.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74c6a4ff-d482-4b3e-8531-6b313a8b100e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2dc1ea-dd9c-44c8-89a4-4e869efc2f3c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae5f0be9-48c2-4dcd-b320-e505a81c166c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bd092cc-3e4a-4f3f-8db4-e3253d4581b6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1864cd8c-3ceb-4f28-9197-cfc1b71d4d65.jpg)
