@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-25T20:49:12.402Z'
+datePublished: '2017-09-25T20:49:39.702Z'
 sourcePath: _posts/2016-11-26-miicrafts.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-25T20:49:09.471Z'
+dateModified: '2017-09-25T20:49:36.321Z'
 title: MiiCrafts
 publisher: {}
 description: ''
@@ -72,23 +72,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/835f477a-5b71-46c5-8d5f-4c8c942bac31.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb93926e-1372-4a2d-8d44-3b7b5d9fdf02.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e065d67-627a-4de6-943d-8cc15154efed.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d85fcac-1812-42f8-b5ce-263ba97da922.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c72f75f3-3b4b-452a-81f1-83ff24a94206.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/706f328a-51a1-4a92-9777-821c11292e38.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83d12538-26ca-4072-8805-b1ee53a56926.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf689f3-93ad-4265-8e5c-f8392010d2cf.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e74bc013-b267-41d4-8071-442b242d88c9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/000123da-5ed8-4c89-9b42-f3d911f76c70.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ca27da0-15dd-41e9-a30e-05274b5c3a5f.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8964eba9-50bb-493e-b35a-41342fce2324.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fd79173-3a70-4f1a-be39-f5d0a87f1025.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22047cf1-29f8-4d1e-89eb-2634bfeb26d9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80f365b7-33aa-4171-88f1-53d356695266.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/058bc24f-543c-43c4-b3a2-4bc7ba2f265b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b1989b1-662f-4e48-842c-9b698efdba6c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb1b4bc2-d2bc-4544-978a-82a9eadfccd1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cfdeedf-6a42-4b79-81d6-213195c3f9b0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b964afef-45e3-45f0-9259-02bf9996d73c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc535bc-2db9-4206-b450-03cac6310948.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc8de1a7-88ef-4f6b-938f-c65dd2f69047.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecdfb54f-f909-4a0a-bd63-7921c38a9b22.jpg)
