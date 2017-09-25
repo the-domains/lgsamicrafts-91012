@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-25T22:44:46.919Z'
+datePublished: '2017-09-25T22:47:31.545Z'
 sourcePath: _posts/2016-11-26-miicrafts.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-25T22:43:01.429Z'
+dateModified: '2017-09-25T22:45:15.520Z'
 title: MiiCrafts
 publisher: {}
 description: ''
@@ -16,7 +16,11 @@ _type: Article
 
 ---
 # **MiiCrafts**
+
+# **MiiCrafts**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69d7e5a1-2232-44f4-97e5-53cf0296a1db.jpg)
+
+---
 
 ---
 
