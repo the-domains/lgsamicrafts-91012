@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-25T21:36:42.412Z'
+datePublished: '2017-09-25T21:37:01.992Z'
 sourcePath: _posts/2016-11-26-miicrafts.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-25T21:36:40.491Z'
+dateModified: '2017-09-25T21:37:00.045Z'
 title: MiiCrafts
 publisher: {}
 description: ''
@@ -69,7 +69,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/166448af-598b-4d95-8f48-5acb250aa6ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/734240a9-d4dc-4991-9477-62c83b21345e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d13e712d-a962-4bee-9224-ff9a1dab1bad.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c946a7a-d053-45b6-934f-5ce7af523a30.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3e5a5f5-1a4c-41c7-820a-fec9ae17fa40.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a9cf550-d6a4-4cd3-a151-bbc2d48d158f.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d2129e3e5efeded98d2582fba696ec95c13e474.jpg)
