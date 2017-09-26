@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-22T22:28:40.081Z'
+datePublished: '2017-09-26T16:39:12.779Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-22T22:28:38.653Z'
+dateModified: '2017-09-26T16:39:11.432Z'
 title: Materials
 publisher: {}
 description: ''
