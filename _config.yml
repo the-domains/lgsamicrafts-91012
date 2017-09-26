@@ -40,9 +40,6 @@ navigation:
   - name: The Story
     id: 11b9b616-ab08-446d-a84b-649750ab0357
     type: content
-  - name: MiiCrafts
-    id: dff68381-b8ca-428b-88ab-56849ac52239
-    type: content
   - name: Taste of Colors
     id: 924a7386-0ff4-4e6f-9579-9e905885118e
     type: content
