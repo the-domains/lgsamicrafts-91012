@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-26T16:11:37.874Z'
-datePublished: '2017-09-26T16:22:41.118Z'
+dateModified: '2017-09-26T16:39:11.432Z'
+datePublished: '2017-09-26T16:39:12.802Z'
 title: MiiCrafts
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-09-26-miicrafts.md
 starred: false
 datePublishedOriginal: '2017-09-26T16:22:41.118Z'
-sourcePath: _posts/2017-09-26-miicrafts.md
 url: miicrafts/index.html
 _type: Article
 
