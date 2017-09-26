@@ -43,6 +43,9 @@ navigation:
   - name: Taste of Colors
     id: 924a7386-0ff4-4e6f-9579-9e905885118e
     type: content
+  - name: MiiCrafts
+    id: 8b3192f4-7d7c-499a-af0e-ace9a3eefd3b
+    type: content
   - name: Materials
     id: 90d06081-35cb-4b2b-9ca0-4bf7960e948d
     type: content
@@ -54,9 +57,6 @@ navigation:
     type: content
   - name: Custom made & Sizes
     id: aa97cad3-58a0-4fcd-ad74-c2da43cbadf3
-    type: content
-  - name: MiiCrafts
-    id: 8b3192f4-7d7c-499a-af0e-ace9a3eefd3b
     type: content
   - name: Delivery & Returns
     id: d6acc686-a159-45b0-86b7-f6f59c374dba
