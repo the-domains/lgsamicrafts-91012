@@ -67,6 +67,9 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
+  - name: MiiCrafts
+    id: 8b3192f4-7d7c-499a-af0e-ace9a3eefd3b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9bd94d5-2035-4edb-b963-2415b369c360.jpg
 title: >-
