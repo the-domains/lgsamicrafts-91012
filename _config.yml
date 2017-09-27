@@ -40,6 +40,9 @@ navigation:
   - name: The Story
     id: 11b9b616-ab08-446d-a84b-649750ab0357
     type: content
+  - name: MiiCrafts
+    id: 7df6d292-1682-48bf-9e23-472b3bf3196b
+    type: content
   - name: Taste of Colors
     id: 924a7386-0ff4-4e6f-9579-9e905885118e
     type: content
@@ -49,9 +52,6 @@ navigation:
   - name: Leather Colors
     url: 'https://thegrid.ai/leather-colors/'
     type: external
-  - name: MiiCrafts
-    id: 7df6d292-1682-48bf-9e23-472b3bf3196b
-    type: content
   - name: 'Inspiration '
     id: dc346f9e-1661-4f33-90e3-a2d4637ac6a9
     type: content
