@@ -70,6 +70,9 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
+  - name: Showroom
+    id: f9fca674-77fa-454a-a61f-7e33634e5c3a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9bd94d5-2035-4edb-b963-2415b369c360.jpg
 title: >-
