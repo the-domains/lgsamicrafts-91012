@@ -49,6 +49,9 @@ navigation:
   - name: Leather Colors
     url: 'https://thegrid.ai/leather-colors/'
     type: external
+  - name: MiiCrafts
+    id: 7df6d292-1682-48bf-9e23-472b3bf3196b
+    type: content
   - name: 'Inspiration '
     id: dc346f9e-1661-4f33-90e3-a2d4637ac6a9
     type: content
@@ -67,9 +70,6 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
-  - name: MiiCrafts
-    id: 7df6d292-1682-48bf-9e23-472b3bf3196b
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9bd94d5-2035-4edb-b963-2415b369c360.jpg
 title: >-
