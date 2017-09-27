@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-27T15:10:23.580Z'
-datePublished: '2017-09-27T15:10:24.860Z'
+dateModified: '2017-09-27T15:11:49.868Z'
+datePublished: '2017-09-27T15:11:52.869Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -54,9 +54,9 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/433bed20-3754-4144-85f3-30911c21fed2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e61bd7f-9226-44d3-9c2d-52d97ac4aa03.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28b857fc-f25c-40b8-802c-223c1d8c3033.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8934e224-e65d-4a89-a0a9-ae6508c2ea1d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a984abd5-bf55-427f-9987-55c5619f8580.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd96fe0d-5e92-4760-83d8-c2cba2136971.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8934e224-e65d-4a89-a0a9-ae6508c2ea1d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04c0e8f8-3715-4735-8a0c-cad34b8a81c4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea1e61b2-0d8b-4244-aa6d-1254f77729f5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ce5ce8d-5d32-44b3-9e63-6b6b4c2ae252.jpg)
@@ -94,7 +94,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ecad04a-9735-4648-8280-1fe20f6dfa6f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738f6671-037f-4357-995c-25bb4b2d2cc8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b99aa8f-7730-415f-917d-14d2cbd2a198.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a286889d-e769-436b-a896-240e814a9ec3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18621337-6599-428e-9f09-70c25a3e4731.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce7c602f-a42d-4783-bd02-766508d4d6cd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c259f50c-9fe2-4fb8-8d91-6ece04d0322e.jpg)
