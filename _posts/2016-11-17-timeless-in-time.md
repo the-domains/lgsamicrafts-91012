@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-27T20:45:01.317Z'
+datePublished: '2017-09-27T22:48:04.822Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-27T20:45:00.739Z'
+dateModified: '2017-09-27T22:48:04.118Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -18,7 +18,7 @@ _type: Article
 # **Inspiration**
 
 ## An Affair between Traditional and Contemporary
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a50b157a-10fb-41bd-93a4-a8f520db7646.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a552680-1301-4d1f-8238-2b9aa2e25b1b.jpg)
 
 ---
 
