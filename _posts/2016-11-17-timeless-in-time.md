@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-26T20:04:44.689Z'
+datePublished: '2017-09-27T13:12:43.881Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-26T20:04:43.949Z'
+dateModified: '2017-09-27T13:12:42.265Z'
 title: Inspiration
 publisher: {}
 description: ''
