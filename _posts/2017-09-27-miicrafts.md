@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-27T14:06:25.050Z'
-datePublished: '2017-09-27T14:06:27.722Z'
+dateModified: '2017-09-27T14:05:59.302Z'
+datePublished: '2017-09-27T14:06:02.765Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -68,6 +68,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fbcf191-c465-4924-8f9a-776404c52889.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b932484-ee8c-404d-9916-5c67be2ad888.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee6d1f72-6df3-4f07-a12f-0b3f2bdf310d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed2a3744-d696-4f5e-b831-d5e98a6cc5f9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87a511bf-91c4-4351-bf7d-ae96e47dcc2d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a7a1d9-9a5e-417a-9ad3-86088d3ed1fe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53298231-6b90-42fe-98ac-e9abc06ccc28.jpg)
