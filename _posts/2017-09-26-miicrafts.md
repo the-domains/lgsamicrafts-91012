@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-26T20:38:30.184Z'
-datePublished: '2017-09-26T20:38:33.924Z'
-title: MiiCrafts
+dateModified: '2017-09-27T12:27:21.029Z'
+datePublished: '2017-09-27T12:27:25.743Z'
+title: MiiCrafts..
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: miicrafts/index.html
 _type: Article
 
 ---
-# **MiiCrafts**
+# **MiiCrafts..**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cc205d0-7193-49c0-b7cf-525185395207.jpg)
 
 ---
