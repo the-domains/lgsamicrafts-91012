@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-27T20:45:01.337Z'
+datePublished: '2017-09-28T18:36:38.244Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-27T20:45:00.739Z'
+dateModified: '2017-09-28T18:36:37.247Z'
 title: Materials
 publisher: {}
 description: ''
@@ -29,9 +29,10 @@ Nickel-free **Pewter thread,** alloy of **tin** (Sn) and **4% silver** (Ag)
 
 Colored **Copper thread**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b2c8f8-9034-4561-9645-d322ba44430c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59095dc2-f94a-4c0a-9bc2-0b9852e61cff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09e0d03d-48e5-442b-b75e-ec54b637588f.jpg)
 
 # ... When Reindeers predict the Fashion ...
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59095dc2-f94a-4c0a-9bc2-0b9852e61cff.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca365cf-4f83-4bbc-8095-15b3888fa27a.jpg)
 
 > The Buttons are not just a festening
