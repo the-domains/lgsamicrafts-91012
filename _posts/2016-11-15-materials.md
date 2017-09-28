@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-28T18:55:45.879Z'
+datePublished: '2017-09-28T18:58:38.271Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-28T18:55:42.207Z'
+dateModified: '2017-09-28T18:58:37.470Z'
 title: Materials
 publisher: {}
 description: ''
@@ -40,7 +40,7 @@ Colored **Copper thread**
 They are part of the jewelry and art by themselves. Fascinating patterns etched on each**handmade Antler button** are predestined and formed by "life sections" with Naturen´s help. No two are the same. With their shape, color, size,... they indicate where they want to belong...
 
 All **Pewter, Copper** and **Silver buttons** are**handcrafted** by other artisans.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe7bdb6-ea73-4510-a6c7-86d9dd6a5e7c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/616e9d38-3652-48ba-b159-a7cdfdf0990a.jpg)
 
 # Tin Thread Embroidery
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbb8eec5-c677-481e-ab7f-d5668a2a2eea.jpg)
