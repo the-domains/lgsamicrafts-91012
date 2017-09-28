@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-28T18:47:25.801Z'
+datePublished: '2017-09-28T18:55:45.879Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-28T18:47:24.878Z'
+dateModified: '2017-09-28T18:55:42.207Z'
 title: Materials
 publisher: {}
 description: ''
@@ -20,7 +20,7 @@ _type: Article
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba31dcf8-3195-47f2-b319-b81bc0448103.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bd8d8e-9a18-4c8e-84e5-e0fdab858267.jpg)
 
 ### Each piece is handmade of **genuine Reindeer leather** or**Lambskin**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70caa0c1-4750-498a-b424-f7f13cfa5104.jpg)
