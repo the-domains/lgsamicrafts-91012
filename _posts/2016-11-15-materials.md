@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-28T18:58:38.271Z'
+datePublished: '2017-10-09T21:10:54.695Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-28T18:58:37.470Z'
+dateModified: '2017-10-09T21:10:52.935Z'
 title: Materials
 publisher: {}
 description: ''
@@ -48,7 +48,7 @@ All **Pewter, Copper** and **Silver buttons** are**handcrafted** by other artisa
 **The Saami **used tin thread since the 1600´s to decorate their clothing.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31083e0a-fc40-46f8-89aa-139438eb6b77.jpg)
 
-Tin thread**embroidery** on **100%** handmade**wool felt** or on**skin /leather**.
+Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c88281d-57e4-4ba8-a855-0e5a95e17833.jpg)
 
 ### _In relation to **different designs** are many other materials and components applicable:_
