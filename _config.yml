@@ -76,8 +76,8 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9bd94d5-2035-4edb-b963-2415b369c360.jpg
 title: >-
-  Selection of Handcrafted Traditional Lapland Jewelry and Accessories.
-  Authentic Sami Leather Bracelets
+  Selection of Handcrafted Traditional Lapland Jewelry & Accessories. Authentic
+  Sami Leather Bracelets
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
