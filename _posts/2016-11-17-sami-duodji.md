@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-27T22:12:42.168Z'
+datePublished: '2017-11-01T16:35:54.605Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-27T22:12:41.850Z'
+dateModified: '2017-11-01T16:35:53.694Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -28,7 +28,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46addf5-a5ca-47a2-bb7d-19e5c42333fe.jpg)
 
 ### _**- duodji tools , clothing & accessories **_are functional and useful, were made and meant to be used in an everyday work environment, may incorporate artistic element
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad07d0e-f4d5-4ea7-b5c8-108f76e3d905.jpg)
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLtBwESX-1C9PsyNYmjMhQjaADwD8Kwx7D&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9DI-YQmWAT8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9DI-YQmWAT8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad07d0e-f4d5-4ea7-b5c8-108f76e3d905.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7m3c6xJZVio%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7m3c6xJZVio&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7m3c6xJZVio%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
