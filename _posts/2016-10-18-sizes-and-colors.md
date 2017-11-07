@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-07T12:09:44.388Z'
+datePublished: '2017-11-07T12:10:31.816Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-07T12:09:40.926Z'
+dateModified: '2017-11-07T12:10:30.988Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
