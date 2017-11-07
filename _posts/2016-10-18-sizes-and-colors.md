@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-27T22:15:33.525Z'
+datePublished: '2017-11-07T12:03:29.494Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-27T22:15:32.759Z'
+dateModified: '2017-11-07T12:03:28.312Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
@@ -29,6 +29,8 @@ _type: Article
 
 > The leather can stretch a few mm over time
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8922e17-d63d-4397-89af-d816e446048f.jpg)
+
 # **Sizes**
 
 * 5.9 inches = 15 cm
@@ -50,3 +52,4 @@ _type: Article
 **Not your size?**
 
 Please, feel free to**contact Mii !**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1867ae-3775-42a5-a3f7-1b5af06a90f2.png)
