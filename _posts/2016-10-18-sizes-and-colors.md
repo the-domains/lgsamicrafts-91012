@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-07T12:10:31.816Z'
+datePublished: '2017-11-07T12:20:45.900Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-07T12:10:30.988Z'
+dateModified: '2017-11-07T12:20:45.013Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
@@ -52,4 +52,5 @@ _type: Article
 **Not your size?**
 
 Please, feel free to**contact Mii !**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b1867ae-3775-42a5-a3f7-1b5af06a90f2.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2fed629-f983-4133-8638-7c45000efc9f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12f9754a-e84e-4602-bcc9-484b3a1305e5.jpg)
