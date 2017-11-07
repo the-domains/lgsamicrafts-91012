@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-07T12:03:29.494Z'
+datePublished: '2017-11-07T12:09:44.388Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-07T12:03:28.312Z'
+dateModified: '2017-11-07T12:09:40.926Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
@@ -29,7 +29,7 @@ _type: Article
 
 > The leather can stretch a few mm over time
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8922e17-d63d-4397-89af-d816e446048f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e5aace-18ec-4b61-ba20-3af0c4fa6d5b.jpg)
 
 # **Sizes**
 
