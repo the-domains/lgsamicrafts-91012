@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-10T22:01:29.560Z'
+datePublished: '2017-11-10T22:03:42.509Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-10T22:01:28.584Z'
+dateModified: '2017-11-10T22:03:41.399Z'
 title: Materials
 publisher: {}
 description: ''
@@ -29,6 +29,8 @@ Nickel-free **Pewter thread,** alloy of **tin** (Sn) and **4% silver** (Ag)
 
 Colored **Copper thread**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b2c8f8-9034-4561-9645-d322ba44430c.jpg)
+
+# -
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e092411-fbf2-443c-bd30-5991c6b793d5.jpg)
 
 # ... When Reindeers predict the Fashion ...
