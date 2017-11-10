@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-10T22:00:46.482Z'
+datePublished: '2017-11-10T22:01:29.560Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-10T22:00:44.901Z'
+dateModified: '2017-11-10T22:01:28.584Z'
 title: Materials
 publisher: {}
 description: ''
@@ -52,6 +52,8 @@ All **Pewter, Copper** and **Silver buttons** are**handcrafted** by other artisa
 
 Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c88281d-57e4-4ba8-a855-0e5a95e17833.jpg)
+
+# -
 
 ### _In relation to **different designs** are many other materials and components applicable:_
 
