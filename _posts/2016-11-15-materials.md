@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-10T22:05:43.221Z'
+datePublished: '2017-11-10T22:06:57.529Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-10T22:05:42.685Z'
+dateModified: '2017-11-10T22:06:56.714Z'
 title: Materials
 publisher: {}
 description: ''
@@ -62,8 +62,6 @@ Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 * **Silver (Ag)** components and beads
 * Genuine **cow leather cord**
 * and ....
-
-# -
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/136f5ad3-08f1-4908-8612-a0ebbae7b42f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8772add5-57e3-4248-a783-628a32241f67.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/679c13b0-9add-4bbe-9046-7ea3472f2e59.jpg)
