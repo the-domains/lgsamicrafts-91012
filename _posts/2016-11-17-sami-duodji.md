@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-10T22:14:47.731Z'
+datePublished: '2017-11-10T22:17:08.823Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-10T22:14:46.354Z'
+dateModified: '2017-11-10T22:17:07.337Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -48,6 +48,8 @@ Jon Henrik Fjällgren
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc9fdbf1-3892-4032-897a-14404d97cf66.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkYGVWeS_jR0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkYGVWeS_jR0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkYGVWeS_jR0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+# -
 
 # -
 
