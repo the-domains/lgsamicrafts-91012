@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-07T12:27:19.053Z'
+datePublished: '2017-11-10T22:11:08.293Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-07T12:27:17.732Z'
+dateModified: '2017-11-10T22:11:07.204Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
@@ -48,6 +48,8 @@ _type: Article
 * 8.3 inches = 21 cm
 * 8.5 inches = 21.5 cm
 * 8.7 inches = 22 cm
+
+# -
 
 **Not your size?**
 
