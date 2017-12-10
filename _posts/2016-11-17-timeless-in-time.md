@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-09-27T22:48:04.822Z'
+datePublished: '2017-12-09T21:59:10.272Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-09-27T22:48:04.118Z'
+dateModified: '2017-12-09T21:59:09.498Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -27,7 +27,7 @@ _type: Article
 > The Infinity of Creativity is fascinating. All Creativity is coming from Infinity.
 
 ### **Inspiration **is present all around us. I´m grateful for every touch of it, everything that comes. It feels like it´s coming from nowhere. It´s exciting and surprising because you never know when and what around us will motivate you**next tiiMe** to create something...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57db73ad-6361-47de-bca8-85d6ef896680.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b6838b3-96d6-4e49-a902-e4fbf4b9db7b.jpg)
 
 # **The Entry into Mystery**
 
