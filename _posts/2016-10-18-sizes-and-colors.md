@@ -1,16 +1,16 @@
 ---
-datePublished: '2017-12-11T19:57:41.672Z'
+datePublished: '2017-12-11T19:59:12.701Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-12-11T19:57:20.163Z'
+dateModified: '2017-12-11T19:59:11.542Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
 starred: false
-datePublishedOriginal: '2017-12-11T19:57:41.672Z'
+datePublishedOriginal: '2017-12-09T22:38:54.387Z'
 url: custom-made-and-sizes/index.html
 _type: Article
 
@@ -56,4 +56,6 @@ _type: Article
 Please, feel free to**contact Mii !**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a43a4cb9-40a3-4256-86cc-d1fde333d09a.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae363dca-e0a4-4fe3-80cc-e9bda9038b84.jpg)
+
+# ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb4d45-ce3b-4904-b768-40f1bc48bb47.jpg)
