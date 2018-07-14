@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-07-14T13:40:24.710Z'
+datePublished: '2018-07-14T13:51:35.720Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-14T13:40:22.972Z'
-title: Custom made & Sizes
+dateModified: '2018-07-14T13:51:34.714Z'
+title: Sizes & Custom made
 publisher: {}
 description: ''
 starred: false
@@ -15,7 +15,7 @@ url: custom-made-and-sizes/index.html
 _type: Article
 
 ---
-# **Custom made & Sizes**
+# **Sizes & Custom made**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8242185c-fe7a-423b-89d3-e9c697a701cf.jpg)
 
 ---
