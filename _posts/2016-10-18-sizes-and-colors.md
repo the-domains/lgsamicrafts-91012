@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-12-11T19:59:12.701Z'
+datePublished: '2018-07-14T13:40:24.710Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-12-11T19:59:11.542Z'
+dateModified: '2018-07-14T13:40:22.972Z'
 title: Custom made & Sizes
 publisher: {}
 description: ''
@@ -22,17 +22,18 @@ _type: Article
 
 ### **For **all**CUSTOM ORDERS**, please allow **up to 2 weeks** for your order **to be complete **(or see individual items).
 
-## **For your SIZE **(=total length of the bracelet):
+## **For SIZE **(=total length of the bracelet):
 
 1. Measure your wrist tightly
-2. Add 0.4 inches (1 cm) for snug fit, or 0.6 inches (1.5 cm) for loose fit to your wrist size.
+2. Add 0.4 inches (1 cm) for snug fit, or 0.6 inches (1.5 cm) for loose fit to your wrist size/measurement
 
-> The leather can stretch a few mm over time
+> The leather can stretch a few millimeters over time
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e5aace-18ec-4b61-ba20-3af0c4fa6d5b.jpg)
 
 # **Sizes**
 
+* 5.7 inches = 14.5 cm
 * 5.9 inches = 15 cm
 * 6.1 inches = 15.5 cm
 * 6.3 inches = 16 cm
