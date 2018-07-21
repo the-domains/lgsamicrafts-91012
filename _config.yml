@@ -64,11 +64,11 @@ navigation:
   - name: Delivery & Returns
     id: d6acc686-a159-45b0-86b7-f6f59c374dba
     type: content
-  - name: LG Larsen
-    url: 'https://thegrid.ai/lg-larsen/'
-    type: external
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
+    type: external
+  - name: LG Larsen
+    url: 'https://thegrid.ai/lg-larsen/'
     type: external
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
