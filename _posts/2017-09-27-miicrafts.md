@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-14T20:26:07.940Z'
-datePublished: '2018-10-14T20:26:09.744Z'
+dateModified: '2018-10-14T20:28:57.157Z'
+datePublished: '2018-10-14T20:28:59.681Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 # **MiiCrafts**
 
-### Jewels that belong Eternity
+## Jewels that belong Eternity
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9289886a-9383-4a16-8b44-21fdead3ae5c.jpg)
 
 ---
