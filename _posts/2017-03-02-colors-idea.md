@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-14T20:50:11.159Z'
-datePublished: '2018-10-14T20:50:13.108Z'
+dateModified: '2018-10-14T20:54:09.201Z'
+datePublished: '2018-10-14T20:54:10.975Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -56,10 +56,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b668d58-77cf-4b61-8729-7cf8a4fde688.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f68e31e-ff43-488a-a111-a693946d9690.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56685213-b52c-4435-9cb3-85fb53fe3a5a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/049d3963-ad99-4224-a7d2-f3500df5190c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e72191-c188-4c2a-9aa9-24e559de29b5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d09c01-bd05-4002-b198-0422f6f63cdc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f436700-148e-4802-a4cb-98f1d1c87413.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/980c795a-7c8d-4cc3-af72-29caf382d193.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22aefa38-fba8-4746-a071-3103b6d1da9d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d09c01-bd05-4002-b198-0422f6f63cdc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b86d0b76-163f-4258-8fae-4df724e35acb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7226d5-fdb0-4569-9332-99445e333173.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/946c7ade-52dd-42f4-9794-be96385f3fad.jpg)
@@ -74,9 +74,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7963bfc4-1c3f-4a96-acea-c307cee815c2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3414ecd-3442-4814-84ff-089e11d84b28.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3847565e-ae89-4831-88ff-65bfb3c3506d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bec1925a-05a6-473f-b4ec-63b9d5c1183e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d93d3dad-5988-4b13-978a-1b0f959bc55a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6ae6e2e-f9a2-45ec-8516-d7c670ddd6df.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/852e36eb-fec5-4aa8-af0e-3523a399e383.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/179a0ce4-1f49-444c-98a4-a012c6ff4750.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c032c6a-65ba-4dc9-a229-41f4ef6dc48d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2d8c6f1-e1e4-46cc-987c-55d5400f21a0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bb02582-eadb-4b85-b589-34b853226ea1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c5a438e-a19a-4e56-9ec2-c3ef3b0c09ec.jpg)
