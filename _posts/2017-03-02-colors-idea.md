@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-14T21:31:20.417Z'
-datePublished: '2018-10-14T21:31:23.370Z'
+dateModified: '2018-10-14T21:31:56.055Z'
+datePublished: '2018-10-14T21:32:05.166Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -93,10 +93,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b243bbb-84e5-49ca-bf72-c60da31393f8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a959f7-3eba-448f-832b-b3a1065b173c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0972e96b-e5ba-4f07-b619-1cdc1e85ef61.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0120f792-8449-492e-a511-0c50bfcf5b7b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
 
 # ...to see more colors dive here...
 
 ## Skin & Leather Colors
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0120f792-8449-492e-a511-0c50bfcf5b7b.jpg)
 ![Skin & Leather Colors](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8710d002-8d6a-43c1-9643-8755d03cf775.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
