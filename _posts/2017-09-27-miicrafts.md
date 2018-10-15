@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-15T10:01:33.911Z'
-datePublished: '2018-10-15T10:01:36.342Z'
+dateModified: '2018-10-15T10:03:12.322Z'
+datePublished: '2018-10-15T10:03:14.736Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -49,8 +49,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00812d7f-a633-4998-ac16-da9e2be4aaac.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/514cee18-4b40-49a0-bfea-1dfe0ee4748e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/563c7117-42c1-47b9-987b-02bc5dfdd91a.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ec13e17a2abb758d0ad4185ec474c2c5/croprotate.jpg?cropheight=275&cropwidth=600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e981a51-e674-4426-af84-a4fc0672df4b.jpg&x=0&y=46)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb79407-3e24-4bb2-92c4-af5797a0e493.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14d7c865afe69e6d877ea45f9f0377fb8732fbcf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a3e5c39-2d6e-4404-a410-78f8e7fa328c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35388f01-b99c-4d68-b163-c334356ffdbd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b27d3c8-3008-4119-ba8f-4c3a676e8430.jpg)
