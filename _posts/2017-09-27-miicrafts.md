@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-15T14:50:23.654Z'
-datePublished: '2018-10-15T14:52:46.967Z'
+dateModified: '2018-10-15T14:53:07.816Z'
+datePublished: '2018-10-15T14:56:07.980Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -17,14 +17,8 @@ _type: Article
 ---
 # **MiiCrafts**
 
-# **MiiCrafts**
-
-## Timeless with a Story
-
 ## Timeless with a Story
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9289886a-9383-4a16-8b44-21fdead3ae5c.jpg)
-
----
 
 ---
 
@@ -107,8 +101,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72b944e1-ce74-480a-8266-46965f282430.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07bc614f-7282-4e2b-9141-19dc65ca8755.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04fc00a1-b1c0-468b-a5c8-185f14629195.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b17ba532df409fb2815fbde9906c1d45/croprotate.jpg?cropheight=337&cropwidth=960&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe4227a29-e579-49c7-a319-e365fef16b6c.jpg&x=0&y=112)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4a0992-412b-4cd1-979e-e551f1c93ad3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4227a29-e579-49c7-a319-e365fef16b6c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b872fc2-5ba4-4b3c-a0d0-6140cb844f53.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e540dcd-3a0a-4a2b-90ac-a094c8f5690f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a6a28dc-415f-469b-a00b-72a2f9ad074d.jpg)
