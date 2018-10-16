@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-14T21:31:56.055Z'
-datePublished: '2018-10-14T21:32:05.166Z'
+dateModified: '2018-10-16T22:19:59.633Z'
+datePublished: '2018-10-16T22:20:01.707Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -16,6 +16,8 @@ _type: Article
 
 ---
 # Taste of Colors
+
+## Wear your own Taste
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71c1157c-cec7-4cb0-ab5a-ae9e30e46ef7.jpg)
 
 ---
