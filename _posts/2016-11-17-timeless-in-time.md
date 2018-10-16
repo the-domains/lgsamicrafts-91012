@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-12-11T19:52:54.991Z'
+datePublished: '2018-10-16T22:30:03.841Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-12-11T19:52:53.520Z'
+dateModified: '2018-10-16T22:30:01.310Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -22,7 +22,7 @@ _type: Article
 
 ---
 
-# Termless in TiiMe
+# Timeless in TiiMe
 
 > The Infinity of Creativity is fascinating. All Creativity is coming from Infinity.
 
@@ -31,7 +31,7 @@ _type: Article
 
 # **The Entry into Mystery**
 
-### **Can you imagine...** that this incredible sweet bird has inspired me to make this men´s bracelet ?
+### **Can you imagine...** that this incredible sweet bird has inspired me to make this bracelet ?
 
 ## **...he is just irreplaceable...**
 
