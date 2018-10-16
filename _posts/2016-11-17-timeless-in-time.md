@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-16T22:30:03.841Z'
+datePublished: '2018-10-16T22:35:44.022Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-16T22:30:01.310Z'
+dateModified: '2018-10-16T22:35:42.416Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -31,7 +31,7 @@ _type: Article
 
 # **The Entry into Mystery**
 
-### **Can you imagine...** that this incredible sweet bird has inspired me to make this bracelet ?
+### **Can you imagine...** that this incredible sweet bird could be an inspiration to make this bracelet ?
 
 ## **...he is just irreplaceable...**
 
