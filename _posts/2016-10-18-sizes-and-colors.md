@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-17T15:46:36.778Z'
+datePublished: '2018-10-17T16:24:14.910Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-17T15:46:31.850Z'
+dateModified: '2018-10-17T16:24:12.882Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -19,8 +19,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8242185c-fe7a-423b-89d3-e9c697a701cf.jpg)
 
 ---
-
-### **For **all**CUSTOM ORDERS**, please allow **up to 2 weeks** for your order **to be complete **
 
 ## **For SIZE **(=total length of the bracelet):
 
