@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-18T10:44:47.296Z'
-datePublished: '2018-10-18T10:44:49.203Z'
+dateModified: '2018-10-18T10:49:37.743Z'
+datePublished: '2018-10-18T10:49:39.572Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -103,7 +103,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e9bf77a-76c5-40be-863b-382123eaafd0.jpg)
 
 # ---
-
-# Sami Handicraft- Jewels that belong Eternity
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f10e205e-789c-4cb0-bf3d-66f22093a647.jpg)
 
 # ---
