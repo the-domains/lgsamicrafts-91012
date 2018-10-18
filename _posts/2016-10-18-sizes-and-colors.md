@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T14:50:50.357Z'
+datePublished: '2018-10-18T14:54:49.003Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T14:50:49.027Z'
+dateModified: '2018-10-18T14:54:47.452Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -53,15 +53,13 @@ _type: Article
 Please, feel free to**contact Mii !**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae363dca-e0a4-4fe3-80cc-e9bda9038b84.jpg)
 
-## ****
-
 ## deemiinovo@gmail.com
 
-# -
+# **. .**
 
 # Jewels that belong Eternity
 
 ## **::::::: : : : :--- Sámi Duodji ----:-:---- Sami Handicraft ---: : : : :::::::**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb4d45-ce3b-4904-b768-40f1bc48bb47.jpg)
 
-## **::**
+# **. .**
