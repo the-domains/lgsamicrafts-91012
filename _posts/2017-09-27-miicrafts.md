@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-18T11:19:56.786Z'
-datePublished: '2018-10-18T11:19:59.528Z'
+dateModified: '2018-10-18T11:26:04.283Z'
+datePublished: '2018-10-18T11:26:06.088Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -105,5 +105,3 @@ _type: Article
 # _Jewels that belong Eternity_
 
 ## :: Sámi Duodji - Sami Handicraft ::
-
-# ---
