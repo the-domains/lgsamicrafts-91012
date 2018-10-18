@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T18:39:55.842Z'
+datePublished: '2018-10-18T22:06:00.057Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T18:39:54.508Z'
+dateModified: '2018-10-18T22:05:58.499Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -40,7 +40,7 @@ Superb Bird of Paradise / Lophorina Superba
 
 # **You don´t have to adapt your taste to the tradition. The tradition will adapt to your taste**
 
-## _...Jewelry connected with many hundred years old tradition..._
+_Jewelry connected with many hundred years old tradition..._
 
 ### Thrilled to make both, the traditional or classic, as well as modern styles. Near showing this handicraft in a different dimension, where it will be given more focus on own designs, that´s what I am looking for.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d8b0141-4e0a-457f-b7de-a8292dab2669.jpg)
