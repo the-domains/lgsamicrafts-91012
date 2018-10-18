@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T20:07:54.787Z'
+datePublished: '2018-10-18T20:11:06.215Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T20:07:52.916Z'
+dateModified: '2018-10-18T20:11:04.658Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -49,13 +49,13 @@ _type: Article
 * 8.7 inches = 22 cm
 
 Not your size?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf4b488-f871-4066-ab69-16aa5802eef5.jpg)
 
-### Please, feel free to **contact Mii !**
+* ### Please, feel free to **contact Mii !**
 
 ## **deemiinovo@gmail.com**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf4b488-f871-4066-ab69-16aa5802eef5.jpg)
 
-* * * # Jewels that belong to Eternity
+# Jewels that belong to Eternity
 
 ## **: : : : : : : : : : : : : :- Sámi Duodji -: : :- Sami Handicraft -: : : : : : : : : : : : :**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb4d45-ce3b-4904-b768-40f1bc48bb47.jpg)
