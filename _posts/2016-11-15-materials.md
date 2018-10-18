@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-10T22:07:07.817Z'
+datePublished: '2018-10-18T12:46:16.128Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-11-10T22:07:07.121Z'
+dateModified: '2018-10-18T12:46:13.425Z'
 title: Materials
 publisher: {}
 description: ''
@@ -31,7 +31,7 @@ Colored **Copper thread**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b2c8f8-9034-4561-9645-d322ba44430c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e092411-fbf2-443c-bd30-5991c6b793d5.jpg)
 
-# ... When Reindeers predict the Fashion ...
+# When Reindeers predict the Fashion
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69254b80-1b24-49eb-b834-6b29c28049e8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca365cf-4f83-4bbc-8095-15b3888fa27a.jpg)
 
@@ -66,3 +66,5 @@ Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8772add5-57e3-4248-a783-628a32241f67.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/679c13b0-9add-4bbe-9046-7ea3472f2e59.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2942abc-0023-41f4-881d-1aecaf66ff2c.jpg)
+
+# Jewels that belong Eternity
