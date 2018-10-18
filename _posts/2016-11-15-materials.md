@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T18:52:03.618Z'
+datePublished: '2018-10-18T18:55:49.130Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T18:52:01.689Z'
+dateModified: '2018-10-18T18:55:47.762Z'
 title: Materials
 publisher: {}
 description: ''
@@ -31,7 +31,7 @@ Colored **Copper thread**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22b2c8f8-9034-4561-9645-d322ba44430c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e092411-fbf2-443c-bd30-5991c6b793d5.jpg)
 
-# When Reindeers predict the Fashion : : :-: :
+# When Reindeers predict the Fashion : : : : : : : :
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69254b80-1b24-49eb-b834-6b29c28049e8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca365cf-4f83-4bbc-8095-15b3888fa27a.jpg)
 
