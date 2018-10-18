@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T20:56:32.485Z'
+datePublished: '2018-10-18T20:59:00.945Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T20:56:30.841Z'
+dateModified: '2018-10-18T20:58:59.760Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -44,7 +44,7 @@ Jon Henrik Fjällgren
 [OFFICIAL PAGE on Facebook ][0]
 [FANPAGE on Facebook][1]
 
-## **:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-: : : : : : : : : : : : : : : : : : : : : : : :-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:**
+## **:-:-:-:-:-:-:-:-:-:-:-:-: : : : : : : : : : : : : : : : : : : : : : : :-:-:-:-:-:-:-:-:-:-:-:-:**
 
 # Jewels that belong to Eternity
 
