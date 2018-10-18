@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T19:34:39.209Z'
+datePublished: '2018-10-18T19:38:15.681Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T19:34:37.981Z'
+dateModified: '2018-10-18T19:38:14.129Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -54,8 +54,6 @@ Please, feel free to**contact Mii !**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae363dca-e0a4-4fe3-80cc-e9bda9038b84.jpg)
 
 ## deemiinovo@gmail.com
-
-## **: : **
 
 # Jewels that belong to Eternity
 
