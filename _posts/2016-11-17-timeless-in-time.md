@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T13:29:42.599Z'
+datePublished: '2018-10-18T13:32:31.932Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T13:29:41.598Z'
+dateModified: '2018-10-18T13:32:30.639Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -59,6 +59,6 @@ Superb Bird of Paradise / Lophorina Superba
 
 # ---
 
-# **Jewels that belong Eternity**
-
 ## **:-: Sámi Duodji :-: Sami Handicraft :-:**
+
+# **Jewels that belong Eternity**
