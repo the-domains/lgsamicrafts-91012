@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T19:42:54.571Z'
+datePublished: '2018-10-18T19:46:29.727Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T19:42:53.010Z'
+dateModified: '2018-10-18T19:46:28.484Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -47,15 +47,15 @@ _type: Article
 * 8.3 inches = 21 cm
 * 8.5 inches = 21.5 cm
 * 8.7 inches = 22 cm
-
-# **. . . .**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae363dca-e0a4-4fe3-80cc-e9bda9038b84.jpg)
 
 ## Not your size?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae363dca-e0a4-4fe3-80cc-e9bda9038b84.jpg)
+
+## Please, feel free to **contact Mii !**
 
 ## deemiinovo@gmail.com
 
-## Please, feel free to **contact Mii !**
+# **. . . .**
 
 # Jewels that belong to Eternity
 
