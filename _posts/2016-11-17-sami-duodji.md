@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T15:04:37.115Z'
+datePublished: '2018-10-18T15:10:05.985Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T15:04:35.318Z'
+dateModified: '2018-10-18T15:10:04.468Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -80,7 +80,7 @@ Jon Henrik Fjällgren
 
 # Jewels that belong Eternity
 
-## **:::: : :--- Sámi Duodji ----:-:---- Sami Handicraft ---: : ::::**
+## **::::::: : : : :--- Sámi Duodji ----:-:---- Sami Handicraft ---: : : : :::::::**
 
 [0]: https://www.facebook.com/jonHenrikFjallgren/
 [1]: https://www.facebook.com/fansitejonhenrikfjallgren/
