@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-18T12:01:23.789Z'
-datePublished: '2018-10-18T12:01:26.563Z'
+dateModified: '2018-10-18T12:12:02.181Z'
+datePublished: '2018-10-18T12:12:06.817Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -106,4 +106,4 @@ _type: Article
 
 ## **:::::::::: : : : : Sámi Duodji ------------ Sami Handicraft : : : : ::::::::::**
 
-## **::::--------- Sámi Duodji : : : : :::: : : : : Sami Handicraft ---------:::: **
+## **: : : :------ Sámi Duodji ------: : : : :::: : : : :------ Sami Handicraft ------: : : :**
