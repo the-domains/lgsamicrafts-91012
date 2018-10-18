@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T20:11:06.215Z'
+datePublished: '2018-10-18T20:14:23.165Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T20:11:04.658Z'
+dateModified: '2018-10-18T20:14:21.689Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -50,7 +50,7 @@ _type: Article
 
 Not your size?
 
-* ### Please, feel free to **contact Mii !**
+Please, feel free to contact Mii !
 
 ## **deemiinovo@gmail.com**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bf4b488-f871-4066-ab69-16aa5802eef5.jpg)
