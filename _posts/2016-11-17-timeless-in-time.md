@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T22:07:47.678Z'
+datePublished: '2018-10-18T22:10:29.316Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T22:07:46.522Z'
+dateModified: '2018-10-18T22:10:27.365Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -26,14 +26,14 @@ _type: Article
 
 > The Infinity of Creativity is fascinating. All Creativity is coming from Infinity.
 
-### **Inspiration **is present all around us. I´m grateful for every touch of it, everything that comes. It feels like it´s coming from nowhere. It´s exciting and surprising because you never know when and what around us will motivate you**next tiiMe** to create something...
+### **Inspiration **is present all around us. I´m grateful for every touch of it, everything that comes. It feels like it´s coming from nowhere. It´s exciting and surprising because you never know when and what around us will motivate you**next tiiMe** to create something....
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d03a840-4a1c-42da-bfbc-ec9a8261c880.jpg)
 
 # **The Entry into Mystery**
 
-### **Can you imagine...** that this incredible sweet bird could be an inspiration to make this bracelet ?
+### **Can you imagine....** that this incredible sweet bird could be an inspiration to make this bracelet ?
 
-## **...he is just irreplaceable...**
+## **.... he is just irreplaceable....**
 
 Superb Bird of Paradise / Lophorina Superba
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674e683-425f-41f1-8e55-ebebdd7f9692.jpg)
@@ -49,7 +49,7 @@ Superb Bird of Paradise / Lophorina Superba
 
 ### I love to find unique pieces and components handcrafted by other artisans, connect them to my and let them highlight some of my own crafts.
 
-# **...Copying others design...**
+# **.... Copying others design....**
 
 ### **To copy **something means don´t recognize the line between inspered and copied, which**automatically excludes creativity.**
 
