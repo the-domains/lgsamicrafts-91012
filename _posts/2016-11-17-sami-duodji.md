@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T12:58:36.146Z'
+datePublished: '2018-10-19T13:00:01.576Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T12:58:34.637Z'
+dateModified: '2018-10-19T12:59:59.215Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -34,8 +34,6 @@ _type: Article
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1IYB3FD7eFM%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1IYB3FD7eFM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1IYB3FD7eFM%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58986be0-cb90-4df6-b881-23311565e61f.jpg)
-
-# -
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad07d0e-f4d5-4ea7-b5c8-108f76e3d905.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7m3c6xJZVio%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7m3c6xJZVio&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F7m3c6xJZVio%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
