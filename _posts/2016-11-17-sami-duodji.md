@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T12:53:30.683Z'
+datePublished: '2018-10-19T12:54:18.873Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T12:53:29.288Z'
+dateModified: '2018-10-19T12:54:17.541Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -17,7 +17,7 @@ _type: Article
 ---
 # Sámi DUODJI
 
-## Sami Handicraft
+## **Sami Handicraft**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/356e2db1-47a7-45e3-b7bd-44f60ffd6455.jpg)
 
 ---
