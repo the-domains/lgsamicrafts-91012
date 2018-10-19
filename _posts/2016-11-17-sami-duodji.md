@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T13:24:39.832Z'
+datePublished: '2018-10-19T13:27:21.049Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T13:24:37.978Z'
+dateModified: '2018-10-19T13:27:20.156Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -47,7 +47,8 @@ Jon Henrik Fjällgren
 
 # Jewels that belong to Eternity
 
-### : : : : : : : : : : : : : : : : - Sámi Duodji -:-:-:-:-:-:-:-:-:-:-:- Sami Handicraft -: : : : : : : : : ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91c8098-fb58-44c0-b3b7-f458949b4e44.jpg)
+### : : : : : : : : : : : : :- Sámi Duodji -:-:-:-:-:-:-:-:-:-:-:- Sami Handicraft -: : : : : : : : :
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91c8098-fb58-44c0-b3b7-f458949b4e44.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7028ccff-a650-41b4-8330-17d44d221867.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/466d4218-8d1d-4066-9054-c5264e1cd05c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69f48ea7-af2a-4a80-b03b-486b239e5968.jpg)
