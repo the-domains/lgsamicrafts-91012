@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T15:41:58.897Z'
+datePublished: '2018-10-19T17:21:01.822Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T15:41:57.181Z'
+dateModified: '2018-10-19T17:21:00.464Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -63,3 +63,6 @@ Superb Bird of Paradise / Lophorina Superba
 
 ### :-:-: : : : : : : Sámi Duodji :-:-: Sami Handicraft : : : : : : : :-:-:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3d0d9ad-c814-40a2-8339-e7d3eb3b2256.jpg)
+[back to top][0]
+
+[0]: https://thegrid.ai/lgsamicrafts/inspiration/
