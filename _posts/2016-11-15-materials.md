@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T15:12:41.135Z'
+datePublished: '2018-10-19T15:14:58.452Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T15:12:39.742Z'
+dateModified: '2018-10-19T15:14:57.137Z'
 title: Materials
 publisher: {}
 description: ''
@@ -24,7 +24,7 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bd8d8e-9a18-4c8e-84e5-e0fdab858267.jpg)
 
-### Each piece is handmade of **genuine Reindeer leather** or**Lambskin**.
+Each piece is handmade of **genuine Reindeer leather** or**Lambskin**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70caa0c1-4750-498a-b424-f7f13cfa5104.jpg)
 
 Nickel-free **Pewter thread,** alloy of **tin** (Sn) and **4% silver** (Ag)
