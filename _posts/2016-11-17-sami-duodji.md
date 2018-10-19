@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T13:11:49.049Z'
+datePublished: '2018-10-19T13:14:03.500Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T13:11:47.828Z'
+dateModified: '2018-10-19T13:14:03.101Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -44,6 +44,8 @@ _type: Article
 Jon Henrik Fjällgren
 [OFFICIAL PAGE on Facebook ][0]
 [FANPAGE on Facebook][1]
+
+# **. .**
 
 # Jewels that belong to Eternity
 
