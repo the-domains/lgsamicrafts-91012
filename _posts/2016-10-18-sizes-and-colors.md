@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T20:16:48.920Z'
+datePublished: '2018-10-19T15:59:07.222Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T20:16:47.454Z'
+dateModified: '2018-10-19T15:59:06.143Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -15,7 +15,7 @@ url: custom-made-and-sizes/index.html
 _type: Article
 
 ---
-# **Sizes & Custom made**
+# Sizes & Custom made
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8242185c-fe7a-423b-89d3-e9c697a701cf.jpg)
 
 ---
@@ -29,7 +29,7 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03e5aace-18ec-4b61-ba20-3af0c4fa6d5b.jpg)
 
-# **Sizes**
+# Sizes
 
 * 5.7 inches = 14.5 cm
 * 5.9 inches = 15 cm
@@ -56,5 +56,4 @@ Please, feel free to**contact Mii !**
 
 # Jewels that belong to Eternity
 
-## **: : : : : : : : : : : : : :- Sámi Duodji -: : :- Sami Handicraft -: : : : : : : : : : : : :**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb4d45-ce3b-4904-b768-40f1bc48bb47.jpg)
+: : : : : : : : : : : : : : : : : :- Sámi Duodji -: : : :- Sami Handicraft -: : : : : : : : : : : : : : : : : ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb4d45-ce3b-4904-b768-40f1bc48bb47.jpg)
