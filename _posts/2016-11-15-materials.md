@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T15:14:58.452Z'
+datePublished: '2018-10-19T15:18:05.230Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T15:14:57.137Z'
+dateModified: '2018-10-19T15:18:04.242Z'
 title: Materials
 publisher: {}
 description: ''
@@ -41,7 +41,7 @@ Colored **Copper thread**
 
 They are part of the jewelry and art by themselves. Fascinating patterns etched on each**handmade Antler button** are predestined and formed by "life sections" with Naturen´s help. No two are the same. With their shape, color, size,... they indicate where they want to belong...
 
-# -
+# **. .**
 
 All **Pewter, Copper** and **Silver buttons** are**handcrafted** by other artisans.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/616e9d38-3652-48ba-b159-a7cdfdf0990a.jpg)
@@ -55,7 +55,7 @@ All **Pewter, Copper** and **Silver buttons** are**handcrafted** by other artisa
 Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c88281d-57e4-4ba8-a855-0e5a95e17833.jpg)
 
-# -
+# **. .**
 
 ### _In relation to **different designs** are many other materials and components applicable:_
 
@@ -72,3 +72,4 @@ Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 # Jewels that belong to Eternity
 
 ## **::::::::::::::: : : : :--- Sámi Duodji ----:-:---- Sami Handicraft ---: : : : :::::::::**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddb3843e-8481-4931-871b-f42638356111.jpg)
