@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T16:39:58.243Z'
+datePublished: '2018-10-19T16:44:24.598Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T16:39:52.100Z'
+dateModified: '2018-10-19T16:44:23.489Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -86,4 +86,4 @@ Jon Henrik Fjällgren
 
 [0]: https://www.facebook.com/jonHenrikFjallgren/
 [1]: https://www.facebook.com/fansitejonhenrikfjallgren/
-[2]: https://thegrid,ai/lgsamicrafts/sami-duodji/
+[2]: https://thegrid.ai/lgsamicrafts/sami-duodji/
