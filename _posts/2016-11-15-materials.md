@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-18T18:59:07.919Z'
+datePublished: '2018-10-19T15:12:41.135Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-18T18:59:06.718Z'
+dateModified: '2018-10-19T15:12:39.742Z'
 title: Materials
 publisher: {}
 description: ''
@@ -15,7 +15,9 @@ url: materials/index.html
 _type: Article
 
 ---
-# **Materials**
+# Materials
+
+## When Reindeers predict the Fashion
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/357b3272-6cbd-44d6-8253-80c20bceea41.jpg)
 
 ---
