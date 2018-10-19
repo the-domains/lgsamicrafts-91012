@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T16:04:21.326Z'
+datePublished: '2018-10-19T17:31:13.047Z'
 sourcePath: _posts/2016-10-18-sizes-and-colors.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T16:04:20.177Z'
+dateModified: '2018-10-19T17:31:09.574Z'
 title: Sizes & Custom made
 publisher: {}
 description: ''
@@ -58,3 +58,6 @@ Please, feel free to**contact Mii !**
 
 : : : : : : : : : : : : : : : : : :- Sámi Duodji -: : : :- Sami Handicraft -: : : : : : : : : : : : : :
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06fb4d45-ce3b-4904-b768-40f1bc48bb47.jpg)
+[back to top][0]
+
+[0]: https://thegrid.ai/lgsamictafts/custom-made-and-sizes/
