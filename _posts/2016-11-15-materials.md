@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T15:23:29.637Z'
+datePublished: '2018-10-19T17:16:07.795Z'
 sourcePath: _posts/2016-11-15-materials.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T15:23:28.405Z'
+dateModified: '2018-10-19T17:16:06.298Z'
 title: Materials
 publisher: {}
 description: ''
@@ -68,8 +68,11 @@ Tin thread**embroidery** on handmade **100% wool felt** or on**skin /leather**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8772add5-57e3-4248-a783-628a32241f67.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/679c13b0-9add-4bbe-9046-7ea3472f2e59.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2942abc-0023-41f4-881d-1aecaf66ff2c.jpg)
+[back to top][0]
 
 # Jewels that belong to Eternity
 
 ## **::::::::::::::: : : : :--- Sámi Duodji ----:-:---- Sami Handicraft ---: : : : :::::::::**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddb3843e-8481-4931-871b-f42638356111.jpg)
+
+[0]: https://thegrid.ai/lgsamicrafts/materials/
