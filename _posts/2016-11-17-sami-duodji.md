@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T12:54:18.873Z'
+datePublished: '2018-10-19T12:58:36.146Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T12:54:17.541Z'
+dateModified: '2018-10-19T12:58:34.637Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -27,7 +27,7 @@ _type: Article
 ### **-** is a **traditional **_Sami handicraft_, originates from the time when the Saami people were self-supporting nomads
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46addf5-a5ca-47a2-bb7d-19e5c42333fe.jpg)
 
-### _**- duodji tools , clothing & accessories **_are functional and useful, were made and meant to be used in an everyday work environment, may incorporate artistic element
+### _**- duodji tools , clothing & accessories **_are functional and useful, were made and meant to be used in an everyday work environment, may incorporate artistic elements
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DPLtBwESX-1C9PsyNYmjMhQjaADwD8Kwx7D&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9DI-YQmWAT8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F9DI-YQmWAT8%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
