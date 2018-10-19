@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T12:48:50.692Z'
+datePublished: '2018-10-19T12:48:58.910Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T12:48:48.980Z'
+dateModified: '2018-10-19T12:48:56.901Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -22,7 +22,7 @@ _type: Article
 
 ---
 
-# **Sámi Duodji**
+# Sámi Duodji
 
 ### **-** is a **traditional **_Sami handicraft_, originates from the time when the Saami people were self-supporting nomads
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b46addf5-a5ca-47a2-bb7d-19e5c42333fe.jpg)
