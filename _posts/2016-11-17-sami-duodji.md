@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-21T11:00:41.367Z'
+datePublished: '2018-10-21T11:01:05.060Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-21T11:00:39.746Z'
+dateModified: '2018-10-21T11:01:03.459Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -73,7 +73,7 @@ Jon Henrik Fjällgren
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ddfb70-a307-427d-b5bd-cc6761485ebb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/436ed9c0-d69e-429d-bae9-20b4f64ab410.jpg)
 
-### **- **The traditional**Sami colors** are **blue, jellow, green **and **red**.
+## **- **the traditional**Sami colors** are **blue, jellow, green **and **red**.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24e7c12a-2ec9-4aaa-a279-3e5bfe3e9db9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cde267d0-ef31-413c-baa8-8c6bc0843c10.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf831e6-bd45-41cd-a13f-a2462c8a21d6.jpg)
