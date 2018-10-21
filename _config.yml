@@ -49,7 +49,7 @@ navigation:
   - name: Taste of Colors
     id: 924a7386-0ff4-4e6f-9579-9e905885118e
     type: content
-  - name: Leather colors
+  - name: LEATHER colors
     url: 'https://thegrid.ai/leather-colors/'
     type: external
   - name: Materials
@@ -120,7 +120,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
