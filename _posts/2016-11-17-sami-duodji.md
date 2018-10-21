@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-21T11:00:15.604Z'
+datePublished: '2018-10-21T11:00:41.367Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-21T11:00:11.950Z'
+dateModified: '2018-10-21T11:00:39.746Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -67,7 +67,7 @@ Jon Henrik Fjällgren
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3627697-550d-4723-b91d-cd230a0254f4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9a48317-42f7-47cc-94ae-ea25079b8e23.jpg)
 
-### **- traditionally** Sami handicraft was divided into **Men´s & Women´s handicraft**
+## **- traditionally** Sami handicraft was divided into **Men´s & Women´s handicraft**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7dc6fb10-2f50-40dc-8450-682bee4f6de1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b420de3-d593-4b44-859f-39ed2fb1c47a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ddfb70-a307-427d-b5bd-cc6761485ebb.jpg)
