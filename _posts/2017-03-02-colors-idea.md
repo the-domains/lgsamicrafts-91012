@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T21:56:03.262Z'
-datePublished: '2018-10-21T21:56:05.203Z'
+dateModified: '2018-10-21T21:57:38.623Z'
+datePublished: '2018-10-21T21:57:40.828Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -102,6 +102,7 @@ _type: Article
 [SKIN & LEATHER colors][0]
 [back to top][1]
 ![Skin & Leather Colors](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8710d002-8d6a-43c1-9643-8755d03cf775.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b8b65f2-2bd1-418f-9ff6-2191bab6cdfa.jpg)
 
 [0]: https://thegrid.ai/leather-colors/
 [1]: https://thegrid.ai/lgsamicrafts/taste-of-colors/
