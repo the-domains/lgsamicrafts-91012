@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T09:49:35.832Z'
-datePublished: '2018-10-21T09:49:39.784Z'
+dateModified: '2018-10-21T09:49:51.902Z'
+datePublished: '2018-10-21T09:50:08.832Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -18,6 +18,7 @@ _type: Article
 # MiiCrafts
 
 ## Timeless with a Story
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0e35ef-91fe-4ab5-875d-8413281b0eb7.jpg)
 
 ---
 
@@ -105,6 +106,5 @@ _type: Article
 
 ### SÁMI duodji :-:-:-:-: SAMI handicraft
 [back to top][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0e35ef-91fe-4ab5-875d-8413281b0eb7.jpg)
 
 [0]: https://thegrid.ai/lgsamicrafts/miicrafts/
