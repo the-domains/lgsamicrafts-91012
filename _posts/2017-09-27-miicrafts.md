@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T09:41:35.876Z'
-datePublished: '2018-10-21T09:41:37.719Z'
+dateModified: '2018-10-21T09:48:45.978Z'
+datePublished: '2018-10-21T09:48:47.972Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -106,5 +106,6 @@ _type: Article
 
 ### SÁMI duodji :-:-:-:-: SAMI handicraft
 [back to top][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e0e35ef-91fe-4ab5-875d-8413281b0eb7.jpg)
 
 [0]: https://thegrid.ai/lgsamicrafts/miicrafts/
