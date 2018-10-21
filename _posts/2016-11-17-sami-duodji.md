@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-19T16:44:24.598Z'
+datePublished: '2018-10-21T11:00:15.604Z'
 sourcePath: _posts/2016-11-17-sami-duodji.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-19T16:44:23.489Z'
+dateModified: '2018-10-21T11:00:11.950Z'
 title: Sámi DUODJI
 publisher: {}
 description: ''
@@ -61,7 +61,7 @@ Jon Henrik Fjällgren
 
 ### **-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-**
 
-### **-functional items** like knives, cases, ladies´ bags, wooden cups, certain articles of clothing, etc.
+## **-functional items** like knives, cases, ladies´ bags, wooden cups, certain articles of clothing, etc.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45da6020-23c0-4388-aca6-97742e76e1a8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c79c82b-09ed-4091-b517-c858107d6be7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3627697-550d-4723-b91d-cd230a0254f4.jpg)
