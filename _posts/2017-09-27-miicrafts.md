@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T09:48:50.805Z'
-datePublished: '2018-10-21T09:49:19.631Z'
+dateModified: '2018-10-21T09:49:28.685Z'
+datePublished: '2018-10-21T09:49:36.657Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -18,7 +18,6 @@ _type: Article
 # MiiCrafts
 
 ## Timeless with a Story
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fef743e-feb2-4ae8-938f-73e0a8587e31.jpg)
 
 ---
 
