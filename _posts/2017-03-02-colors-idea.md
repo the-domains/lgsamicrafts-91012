@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T15:09:04.887Z'
-datePublished: '2018-10-22T15:09:09.175Z'
+dateModified: '2018-10-22T15:10:42.873Z'
+datePublished: '2018-10-22T15:11:12.935Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -95,7 +95,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/261a4b62-a520-4b59-8a5a-c686a5b40e62.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b243bbb-84e5-49ca-bf72-c60da31393f8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a959f7-3eba-448f-832b-b3a1065b173c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
 
 # ...to see more colors dive here...
 [SKIN & LEATHER colors][0]
