@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T14:20:07.839Z'
-datePublished: '2018-10-22T14:20:16.821Z'
+dateModified: '2018-10-22T14:20:29.113Z'
+datePublished: '2018-10-22T14:20:34.153Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -80,6 +80,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a11a3b2-2fd3-4fa3-afba-a18487067694.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54568bea-8953-4447-b560-8641e696b60e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ec8efea-972a-4695-b62b-fa777d535ce9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6617092d-3201-4eb9-9b13-d64ce440cdd2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c5a438e-a19a-4e56-9ec2-c3ef3b0c09ec.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d007296e-4bdb-47a6-a097-0ea22c5bbc25.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ecdbdc6-4916-4c68-9484-439c067c461d.jpg)
@@ -96,12 +97,12 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a959f7-3eba-448f-832b-b3a1065b173c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0972e96b-e5ba-4f07-b619-1cdc1e85ef61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0120f792-8449-492e-a511-0c50bfcf5b7b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/068c4f1f-3616-4d2a-9c5d-4b3710e15c43.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
 
 # ...to see more colors dive here...
 [SKIN & LEATHER colors][0]
 [back to top][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/068c4f1f-3616-4d2a-9c5d-4b3710e15c43.jpg)
 ![Skin & Leather Colors](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8710d002-8d6a-43c1-9643-8755d03cf775.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b8b65f2-2bd1-418f-9ff6-2191bab6cdfa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4496002d-c7ba-4b12-a7a2-59a5789e4bc2.jpg)
