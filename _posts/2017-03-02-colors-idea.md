@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T12:54:22.429Z'
-datePublished: '2018-10-22T12:54:26.493Z'
+dateModified: '2018-10-22T12:54:52.114Z'
+datePublished: '2018-10-22T12:54:55.021Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -45,9 +45,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60c03a1b-2763-43b4-aaee-93198bb8b144.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d521115a-1cfa-4d89-802c-62a754aef692.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e231dfc-5320-44e9-b4b5-ab6456c27f5e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08f4deac-0e5b-4381-ac35-0231444bb246.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98376412-fe46-47fa-91b8-acbafe940fd3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13dee21d-8d2a-4a11-a41d-f297350553c5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec5f9926-7891-4fce-b5e4-ccb4f0a9f378.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88548726-3c97-4372-b7e2-234b9f163a5f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1cf24b65-330e-4e4f-b726-676ca3de4b42.jpg)
