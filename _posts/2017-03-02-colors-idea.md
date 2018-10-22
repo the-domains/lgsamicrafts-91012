@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T12:29:01.376Z'
-datePublished: '2018-10-22T12:29:06.666Z'
+dateModified: '2018-10-22T12:31:11.572Z'
+datePublished: '2018-10-22T12:31:15.256Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -32,12 +32,14 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dddf63a1-5195-4dc5-9fc7-682c6687c799.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00eb329c-f32c-4dde-9474-b6309d15a958.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16af68e-5ed3-444c-8ca5-6a578467cee3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8453bc72-fd87-4c27-85e6-4f9368944846.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/537f0fbb-278c-45d3-87dc-c0e5728d1a12.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8453bc72-fd87-4c27-85e6-4f9368944846.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac0c708c-c5ab-40a5-9557-9ca2a2a2f00b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ea073a5-0f0e-4dbe-8248-0ff726d9b9d2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a6799e-1d84-4a82-a80b-6ddf9d6f8603.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38bc85db-8974-4885-9c65-33c9bac0823a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a797dd3-918a-4205-b30f-a49d970d7205.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88af0c81-2895-4f86-a38b-a657f90c5a10.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27851fed-6fce-4ef9-9d55-20cbf8429b06.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3410cda6-5027-4781-8898-055e5ed93fed.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df84bcc4-965c-4d87-aeda-12571b56e2aa.jpg)
@@ -90,7 +92,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09c8592-6078-48da-b797-6f244b1db62f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b002832-5a0d-4aca-b6a1-119c1dbf3ecd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e0e6d7f-157f-4573-a6ea-4198a02e7161.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38bc85db-8974-4885-9c65-33c9bac0823a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8349bf68-169f-4e95-bb6e-585f2c2ab73d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf9c048-e981-4295-9bdd-06151936184c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df37d999-fa29-45e6-bb1c-146eb419c8e7.jpg)
@@ -99,7 +100,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a959f7-3eba-448f-832b-b3a1065b173c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0972e96b-e5ba-4f07-b619-1cdc1e85ef61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0120f792-8449-492e-a511-0c50bfcf5b7b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88af0c81-2895-4f86-a38b-a657f90c5a10.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
 
 # ...to see more colors dive here...
