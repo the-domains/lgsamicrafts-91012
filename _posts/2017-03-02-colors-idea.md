@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T12:15:34.623Z'
-datePublished: '2018-10-22T12:16:36.509Z'
+dateModified: '2018-10-22T12:17:01.367Z'
+datePublished: '2018-10-22T12:19:40.802Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -17,14 +17,8 @@ _type: Article
 ---
 # Taste of Colors
 
-# Taste of Colors
-
-## **Wear your own Taste**
-
 ## **Wear your own Taste**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71c1157c-cec7-4cb0-ab5a-ae9e30e46ef7.jpg)
-
----
 
 ---
 
@@ -35,7 +29,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cccf9e5-9334-49a7-bdce-fa7acb45928f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/606a3072-856a-4398-82f9-f878e3edc978.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35afdd4f-02aa-4c9d-ba61-57fbc63819cc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8261c58-f37a-477b-adf0-40015c84f86c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dddf63a1-5195-4dc5-9fc7-682c6687c799.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00eb329c-f32c-4dde-9474-b6309d15a958.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de0ef5e4-9ad8-465b-a3ae-a7cac877cd92.jpg)
@@ -105,8 +98,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0972e96b-e5ba-4f07-b619-1cdc1e85ef61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0120f792-8449-492e-a511-0c50bfcf5b7b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
-
-# ...to see more colors dive here...
 
 # ...to see more colors dive here...
 [SKIN & LEATHER colors][0]
