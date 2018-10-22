@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T13:50:53.132Z'
-datePublished: '2018-10-22T13:51:03.055Z'
+dateModified: '2018-10-22T13:53:12.338Z'
+datePublished: '2018-10-22T13:53:14.995Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -61,6 +61,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/219b9d69-26e6-4dd0-8c50-23090cac2ff4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78bdedc7-c21f-4727-b0ef-c4a644ffca7e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17479e29-d2f8-4662-994c-9ee8129745f4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccd9803a-f6a9-43fe-a77f-bba6bf04ae49.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7226d5-fdb0-4569-9332-99445e333173.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/946c7ade-52dd-42f4-9794-be96385f3fad.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f61d3c3-3e89-4b15-8930-ca22a8ab7e3a.jpg)
@@ -70,7 +71,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fd4bc2b-6485-423d-95a2-22b89ca87733.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/371914ae-79e4-4824-9536-51f873efa966.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c093642c-4694-4fb8-9264-df2350b06153.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8686d2df-916c-4cae-a3e4-9c219b9fc511.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a322ed9f-9e90-45b7-8d9b-ef69aa9fcbc1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53f5bde5-003d-4448-8ae6-76579edae71a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7963bfc4-1c3f-4a96-acea-c307cee815c2.jpg)
@@ -98,9 +98,11 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0972e96b-e5ba-4f07-b619-1cdc1e85ef61.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0120f792-8449-492e-a511-0c50bfcf5b7b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9b725979-5d00-454d-811d-34c811b3e9e2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a430d9bc-f078-4407-9058-8998a4ef5763.jpg)
 
 # ...to see more colors dive here...
 [SKIN & LEATHER colors][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2360f63-4f68-4e4b-b30d-9354fcdb8b2b.jpg)
 [back to top][1]
 ![Skin & Leather Colors](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8710d002-8d6a-43c1-9643-8755d03cf775.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b8b65f2-2bd1-418f-9ff6-2191bab6cdfa.jpg)
