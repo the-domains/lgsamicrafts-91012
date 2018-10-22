@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T14:44:04.274Z'
-datePublished: '2018-10-22T14:44:06.091Z'
+dateModified: '2018-10-22T14:44:16.821Z'
+datePublished: '2018-10-22T14:44:21.653Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -86,6 +86,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f332be7d-940c-4a81-b71b-779757a26952.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf31d258-eae0-4477-b384-618e5d933c13.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dcc9136-393e-4d31-9478-0c73c2dc7b1a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa4839d8-43f9-440d-bec3-4658bdbc92fd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f09c8592-6078-48da-b797-6f244b1db62f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b002832-5a0d-4aca-b6a1-119c1dbf3ecd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e0e6d7f-157f-4573-a6ea-4198a02e7161.jpg)
