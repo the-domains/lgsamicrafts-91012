@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T14:49:24.778Z'
-datePublished: '2018-10-22T14:49:57.913Z'
+dateModified: '2018-10-22T14:59:45.371Z'
+datePublished: '2018-10-22T14:59:47.741Z'
 title: Taste of Colors
 author: []
 publisher: {}
@@ -85,6 +85,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94b0802-a4dc-488e-a068-d2b85f9b3099.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f332be7d-940c-4a81-b71b-779757a26952.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf31d258-eae0-4477-b384-618e5d933c13.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8204ad17-f2ee-4a68-8c10-d3e6ed120d24.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1dcc9136-393e-4d31-9478-0c73c2dc7b1a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa4839d8-43f9-440d-bec3-4658bdbc92fd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b002832-5a0d-4aca-b6a1-119c1dbf3ecd.jpg)
@@ -101,7 +102,6 @@ _type: Article
 # ...to see more colors dive here...
 [SKIN & LEATHER colors][0]
 [back to top][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8204ad17-f2ee-4a68-8c10-d3e6ed120d24.jpg)
 ![Skin & Leather Colors](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8710d002-8d6a-43c1-9643-8755d03cf775.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b8b65f2-2bd1-418f-9ff6-2191bab6cdfa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4496002d-c7ba-4b12-a7a2-59a5789e4bc2.jpg)
