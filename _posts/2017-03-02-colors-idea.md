@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-22T15:00:17.171Z'
-datePublished: '2018-10-22T15:00:19.488Z'
+dateModified: '2018-10-22T15:00:50.458Z'
+datePublished: '2018-10-22T15:00:56.977Z'
 title: Taste of Colors
 author: []
 publisher: {}
