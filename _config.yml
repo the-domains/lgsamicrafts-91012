@@ -64,7 +64,7 @@ navigation:
   - name: 'LEATHER colors :::: home'
     url: 'https://thegrid.ai/leather-colors/'
     type: external
-  - name: 'LGsignD :: home'
+  - name: 'LGsignD :::: home'
     url: 'https://thegrid.ai/lgsignd/'
     type: external
   - name: 'OurFriends :: home'
