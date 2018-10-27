@@ -49,7 +49,7 @@ navigation:
   - name: Taste of Colors
     id: 924a7386-0ff4-4e6f-9579-9e905885118e
     type: content
-  - name: LEATHER colors
+  - name: 'LEATHER colors :: home'
     url: 'https://thegrid.ai/leather-colors/'
     type: external
   - name: Materials
