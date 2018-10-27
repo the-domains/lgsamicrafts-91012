@@ -67,7 +67,7 @@ navigation:
   - name: 'LGsignD :::: home'
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: 'OurFriends :: home'
+  - name: 'OurFriends :::: home'
     url: 'https://thegrid.ai/ourfriends/'
     type: external
   - name: 'LG :: home'
