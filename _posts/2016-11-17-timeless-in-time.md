@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-27T21:34:17.152Z'
+datePublished: '2018-10-27T21:34:51.302Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-27T21:34:15.992Z'
+dateModified: '2018-10-27T21:34:49.303Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -54,8 +54,8 @@ Superb Bird of Paradise / Lophorina Superba
 ### **To copy **something means don´t recognize the line between inspered and copied, which**automatically excludes creativity.**
 
 ### To see it as a challenge instead works best for Mii. Like it makes me stay constantly creative, which I love.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5567f0ef-07ce-4b1f-ba66-a1b46f0bf112.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68794806-4fae-4ebc-b31c-226652fa8a63.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5567f0ef-07ce-4b1f-ba66-a1b46f0bf112.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FUYbn9R11Rrs%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUYbn9R11Rrs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FUYbn9R11Rrs%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
