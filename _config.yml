@@ -67,11 +67,11 @@ navigation:
   - name: 'LGsignD :: home'
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: 'LG :: home'
-    url: 'https://thegrid.ai/lg-larsen/'
-    type: external
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
+    type: external
+  - name: 'LG :: home'
+    url: 'https://thegrid.ai/lg-larsen/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d1f0845-35ed-431f-87ca-41e5db2b233d.jpg
