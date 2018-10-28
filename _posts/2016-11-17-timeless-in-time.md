@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-28T15:42:25.586Z'
+datePublished: '2018-10-28T16:21:55.911Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-28T15:42:23.023Z'
+dateModified: '2018-10-28T16:21:52.462Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -35,7 +35,7 @@ _type: Article
 
 ## **.... he is just irreplaceable....**
 
-Superb Bird of Paradise / Lophorina Superba
+### Superb Bird of Paradise / Lophorina Superba
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674e683-425f-41f1-8e55-ebebdd7f9692.jpg)
 
 # You don´t have to adapt your taste to the tradition. The tradition will adapt to your taste
