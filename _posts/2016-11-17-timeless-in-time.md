@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-28T16:24:16.160Z'
+datePublished: '2018-10-28T16:24:23.362Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-28T16:24:13.181Z'
+dateModified: '2018-10-28T16:24:21.689Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -54,8 +54,6 @@ _type: Article
 ### **To copy **something means don´t recognize the line between inspered and copied, which**automatically excludes creativity.**
 
 ### To see it as a challenge instead works best for Mii. Like it makes me stay constantly creative, which I love.
-
-# .\_.
 
 ..
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68794806-4fae-4ebc-b31c-226652fa8a63.jpg)
