@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-10-28T16:24:23.362Z'
+datePublished: '2018-10-28T16:34:44.169Z'
 sourcePath: _posts/2016-11-17-timeless-in-time.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-10-28T16:24:21.689Z'
+dateModified: '2018-10-28T16:34:42.243Z'
 title: Inspiration
 publisher: {}
 description: ''
@@ -32,11 +32,13 @@ _type: Article
 # The Entry into Mystery
 
 ### **Can you imagine....** that this incredible sweet bird could be an inspiration to make a bracelet ?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674e683-425f-41f1-8e55-ebebdd7f9692.jpg)
 
 ## **.... he is just irreplaceable....**
 
 ### Superb Bird of Paradise / Lophorina Superba
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a674e683-425f-41f1-8e55-ebebdd7f9692.jpg)
+
+# . .
 
 # You don´t have to adapt your taste to the tradition. The tradition will adapt to your taste
 
@@ -55,7 +57,7 @@ _type: Article
 
 ### To see it as a challenge instead works best for Mii. Like it makes me stay constantly creative, which I love.
 
-..
+....
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68794806-4fae-4ebc-b31c-226652fa8a63.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5567f0ef-07ce-4b1f-ba66-a1b46f0bf112.jpg)
 
