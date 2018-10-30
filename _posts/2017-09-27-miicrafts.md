@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-30T23:06:14.793Z'
-datePublished: '2018-10-30T23:06:17.630Z'
+dateModified: '2018-10-30T23:10:31.029Z'
+datePublished: '2018-10-30T23:10:34.695Z'
 title: MiiCrafts
 author: []
 publisher: {}
@@ -52,6 +52,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea37822b-2ca2-4669-85a4-31ad6976a3ed.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae22e823-61e7-47b3-8a17-0ef91b209c57.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e82b2748-92eb-41f5-90de-cf23382c8401.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b6bb4b6c6335a641b1fe27b4440d144d/croprotate.jpg?cropheight=345&cropwidth=451&degrees=-270&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1c9ecd50-28cc-430f-88f8-c4acad51b0b8.jpg&x=0&y=0)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14d7c865afe69e6d877ea45f9f0377fb8732fbcf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/039710d3-b839-42dd-8f8b-41cc0cd26053.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/667d5e55-d7d9-47d8-ae40-1795a3ab81cf.jpg)
@@ -105,6 +106,5 @@ _type: Article
 
 ### SÁMI duodji :-:-:-:-: SAMI handicraft
 [back to top][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c9ecd50-28cc-430f-88f8-c4acad51b0b8.jpg)
 
 [0]: https://thegrid.ai/lgsamicrafts/miicrafts/
